@@ -1,0 +1,23 @@
+{
+  "name": "tamil-transliterator",
+  "version": "0.0.1",
+  "description": "English to Tamil Transliterator",
+  "main": "tamil-writer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poriyiyal-dot-com/tamil-transliterator.git"
+  },
+  "keywords": [
+    "tamil",
+    "transliterator"
+  ],
+  "author": "Rajan Panneer Selvam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poriyiyal-dot-com/tamil-transliterator/issues"
+  },
+  "homepage": "https://github.com/poriyiyal-dot-com/tamil-transliterator#readme"
+}
